@@ -1,0 +1,32 @@
+https://testdriven.io/blog/django-azure-app-service/#what-is-azure-app-service
+
+
+
+ALLOWED_HOSTS, CSRF_TRUSTED_ORIGINS
+hbauzan-django-images.azurewebsites.net
+
+
+dbname=hbauzan-django-images 
+host=hbauzan-django-images-db.postgres.database.azure.com 
+port=5432 
+sslmode=require 
+user=rdnqmkgljl 
+password=T4G3EJGC0T3112T2$
+
+
+DBNAME=hbauzan-django-images 
+DBHOST=django-images-db.postgres.database.azure.com 
+DBUSER=rdnqmkgljl
+DBPASS=T4G3EJGC0T3112T2$
+
+DEBUG=1
+SECRET_KEY=w7a8a@lj8nax7tem0caa2f2rjm2ahsascyf83sa5alyv68vea
+ALLOWED_HOSTS=localhost 127.0.0.1 [::1] hbauzan-django-images.azurewebsites.net
+CSRF_TRUSTED_ORIGINS=https://hbauzan-django-images.azurewebsites.net
+SECURE_SSL_REDIRECT=0
+
+AZURE_ACCOUNT_NAME=hbauzandjangoimages
+AZURE_ACCOUNT_KEY=vGLhtlZrhSJ0gf25n/X3yj37r3A07Rgd+U01ac7brdFg7sco9zxm741P6gGmr7atkkaTyzVstGxw+AStOSqMIw==
+
+storage
+vGLhtlZrhSJ0gf25n/X3yj37r3A07Rgd+U01ac7brdFg7sco9zxm741P6gGmr7atkkaTyzVstGxw+AStOSqMIw==
